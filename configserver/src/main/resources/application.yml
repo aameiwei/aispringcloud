@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/southwind9801/aispringcloud.git
+          uri: https://github.com/aameiwei/aispringcloud.git
           searchPaths: config
-          username: root
-          password: root
+          username: 923070686@qq.com
+          password: wojiaoxiaowei824
       label: master
 eureka:
   client:
